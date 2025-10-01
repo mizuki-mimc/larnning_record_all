@@ -1,6 +1,8 @@
 # 学習記録リスト
 月別学習記録です。
 
+- [2025.10](https://github.com/mizuki-mimc/larnning_record_2025.10)
+
 - [2025.9](https://github.com/mizuki-mimc/larning_record_2025.09)
 
 - [2025.8](https://github.com/mizuki-mimc/larning_record_2025.08)
